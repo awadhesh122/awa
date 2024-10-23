@@ -1,5 +1,8 @@
-CandidateAPI
--Author: Awadhesh t. Gupta -Email: awadheshgupta90@gmail.com -For Org: Sigma Software -Task: Job candidate hub API -Main tech stack: .NET
+### CandidateAPI
+-Author: Awadhesh t. Gupta
+-Email: awadheshgupta90@gmail.com 
+-For Org: Sigma Software 
+-Task: Job candidate hub API -Main tech stack: .NET
 
 Overview
 CandidateAPI is a web application that provides a REST API for storing and managing information about job candidates. It is built using .NET 8.0, Entity Framework Core, and SQLite.
